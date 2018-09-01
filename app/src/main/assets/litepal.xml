@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<litepal>
+    <dbname value="UnitConverter"></dbname>
+    <version value="1"></version>
+
+    <list>
+        <mapping class="unitDatabase.Speed"></mapping>
+        <mapping class="unitDatabase.Length"></mapping>
+        <mapping class="unitDatabase.Area"></mapping>
+        <mapping class="unitDatabase.Volume"></mapping>
+        <mapping class="unitDatabase.Temperature"></mapping>
+        <mapping class="unitDatabase.Fuel"></mapping>
+        <mapping class="unitDatabase.Frequency"></mapping>
+        <mapping class="unitDatabase.Angle"></mapping>
+        <mapping class="unitDatabase.Pressure"></mapping>
+        <mapping class="unitDatabase.Time"></mapping>
+        <mapping class="unitDatabase.Mass"></mapping>
+        <mapping class="unitDatabase.Storage"></mapping>
+
+    </list>
+</litepal>

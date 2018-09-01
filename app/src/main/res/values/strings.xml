@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Main activity -->
+    <string name="speed">Speed</string>
+    <string name="length">Length</string>
+    <string name="area">Area</string>
+    <string name="volume">volume</string>
+    <string name="temperature">Temperature</string>
+    <string name="fuel">Fuel Econ</string>
+    <string name="frequency">Frequency</string>
+    <string name="angle">Angle</string>
+    <string name="pressure">Pressure</string>
+    <string name="time">Time</string>
+    <string name="mass">Mass</string>
+    <string name="storage">Storage</string>
+
+    <!-- conversion activity layout -->
+    <string name="convert_from">Convert From</string>
+    <string name="convert_to">Convert To</string>
+    <string name="input_value">Enter a value</string>
+    <string name="select_units">Select units</string>
+    <string name="select_all">Select All</string>
+    <string name="clear_all">Clear All</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="singleUnitAlert">Please select a unit</string>
+    <string name="atLeastUnitAlert">Please select at least one unit</string>
+
+    <!-- Setting Activity -->
+    <string name="pref_format_title">Decimal Digits</string>
+    <string name="pref_format_summary">Select decimal digits</string>
+    <string name="pref_language_title">Language Preference</string>
+    <string name="pref_language_message">Select language preference</string>
+    <string name="pref_follow_system">Follow the system</string>
+    <string name="pref_scientific_title">Display in scientific notation (E)</string>
+    <string name="ten_default">10 (default)</string>
+    <string name="pref_unit_order">Units listing order</string>
+    <string name="pref_unit_order_title">Select units listing order</string>
+    <string name="default_order">Default</string>
+    <string name="size_asc">Magnitude (ascending)</string>
+    <string name="size_desc">Magnitude (descending)</string>
+    <string name="symbol_name_asc">Symbol (ascending)</string>
+    <string name="symbol_name_desc">Symbol (descending)</string>
+
+    <!-- About Activity -->
+    <string name="about">About</string>
+    <string name="feedback">Send Feedback</string>
+    <string name="open_source">Open Source Related</string>
+    <string name="copyright">© 2018 Yunhan Bai</string>
+    <string name="allRightReserved">All Right Reserved</string>
+    <string name="tool_tips">Tool tip:</string>
+    <string name="tool_tips_text">Long press the output value or unit to copy ;)</string>
+    <string name="email_client">Choose email client</string>
+    <string name="email_alert">Thanks for your feedback. Please don\'t remove this information</string>
+
+</resources>

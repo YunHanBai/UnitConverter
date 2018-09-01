@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_unit_format_entries">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>@string/ten_default</item>
+    </string-array>
+    <string-array name="pref_unit_format_values">
+        <item>#.##E0</item>
+        <item>#.###E0</item>
+        <item>#.####E0</item>
+        <item>#.#####E0</item>
+        <item>#.######E0</item>
+        <item>#.#######E0</item>
+        <item>#.########E0</item>
+        <item>#.#########E0</item>
+        <item>#.##########E0</item>
+    </string-array>
+    <string-array name="pref_unit_format_values_no_E">
+        <item>#.##</item>
+        <item>#.###</item>
+        <item>#.####</item>
+        <item>#.#####</item>
+        <item>#.######</item>
+        <item>#.#######</item>
+        <item>#.########</item>
+        <item>#.#########</item>
+        <item>#.##########</item>
+    </string-array>
+
+    <string-array name="pref_order_entries">
+        <item>@string/default_order</item>
+        <item>@string/size_asc</item>
+        <item>@string/size_desc</item>
+        <item>@string/symbol_name_asc</item>
+        <item>@string/symbol_name_desc</item>
+    </string-array>
+
+    <string-array name="pref_order_values">
+        <item></item>
+        <item>factor desc</item>
+        <item>factor asc</item>
+        <item>symbol asc</item>
+        <item>symbol desc</item>
+    </string-array>
+
+</resources>

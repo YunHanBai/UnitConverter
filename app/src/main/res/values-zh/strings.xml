@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">单位转换</string>
+    <string name="title_activity_settings">设置</string>
+
+    <!-- Main activity -->
+    <string name="speed">速度</string>
+    <string name="length">长度</string>
+    <string name="area">面积</string>
+    <string name="volume">体积</string>
+    <string name="temperature">温度</string>
+    <string name="fuel">油耗</string>
+    <string name="frequency">频率</string>
+    <string name="angle">角度</string>
+    <string name="pressure">压强</string>
+    <string name="time">时间</string>
+    <string name="mass">质量</string>
+    <string name="storage">数据</string>
+
+    <!-- conversion activity layout -->
+    <string name="convert_from">转换自</string>
+    <string name="convert_to">转换到</string>
+    <string name="input_value">请输入数值</string>
+    <string name="select_units">请选择单位</string>
+    <string name="select_all">全选</string>
+    <string name="clear_all">清空</string>
+    <string name="submit">确认</string>
+    <string name="cancel">取消</string>
+
+
+    <string name="singleUnitAlert">请选择一个基准单位</string>
+    <string name="atLeastUnitAlert">请选择至少一个单位</string>
+
+    <!-- Setting Activity -->
+    <string name="pref_format_title">小数位数</string>
+    <string name="pref_format_summary">选择单位转换小数位数</string>
+    <string name="pref_language_title">语言切换</string>
+    <string name="pref_language_message">请选择语言</string>
+    <string name="pref_follow_system">跟随系统</string>
+    <string name="pref_scientific_title">使用科学记数 (E)</string>
+    <string name="ten_default">10 (默认)</string>
+    <string name="pref_unit_order">单位列表排列顺序</string>
+    <string name="pref_unit_order_title">选择单位列表排列顺序</string>
+    <string name="default_order">默认顺序</string>
+    <string name="size_asc">单位量级 (升序)</string>
+    <string name="size_desc">单位量级 (降序)</string>
+    <string name="symbol_name_asc">单位符号 (升序)</string>
+    <string name="symbol_name_desc">单位符号 (降序)</string>
+
+    <!-- About Activity -->
+    <string name="about">关于</string>
+    <string name="feedback">意见反馈</string>
+    <string name="open_source">开源相关</string>
+    <string name="tool_tips">小提示:</string>
+    <string name="tool_tips_text"> 转换后长按数字或单位即可复制哦</string>
+    <string name="email_client">选择邮箱应用</string>
+    <string name="email_alert">感谢反馈，请勿删除一下信息</string>
+
+</resources>
